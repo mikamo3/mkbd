@@ -1,0 +1,93 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L foostan:ProMicro_r U?
+U 1 1 5EDFC6CF
+P -10600 -300
+F 0 "U?" H -10550 687 60  0000 C CNN
+F 1 "ProMicro_r" H -10550 581 60  0000 C CNN
+F 2 "" H -10450 -1350 60  0000 C CNN
+F 3 "" H -10450 -1350 60  0000 C CNN
+	1    -10600 -300
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW?
+U 1 1 5EDFCD24
+P -9050 -1000
+F 0 "SW?" H -9050 -745 50  0000 C CNN
+F 1 "SW_PUSH" H -9050 -836 50  0000 C CNN
+F 2 "" H -9050 -1000 50  0000 C CNN
+F 3 "" H -9050 -1000 50  0000 C CNN
+	1    -9050 -1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW?
+U 1 1 5EDFDFB5
+P -8000 -1000
+F 0 "SW?" H -8000 -745 50  0000 C CNN
+F 1 "SW_PUSH" H -8000 -836 50  0000 C CNN
+F 2 "" H -8000 -1000 50  0000 C CNN
+F 3 "" H -8000 -1000 50  0000 C CNN
+	1    -8000 -1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW?
+U 1 1 5EDFE219
+P -6950 -1000
+F 0 "SW?" H -6950 -745 50  0000 C CNN
+F 1 "SW_PUSH" H -6950 -836 50  0000 C CNN
+F 2 "" H -6950 -1000 50  0000 C CNN
+F 3 "" H -6950 -1000 50  0000 C CNN
+	1    -6950 -1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW?
+U 1 1 5EDFE3AD
+P -9050 -500
+F 0 "SW?" H -9050 -245 50  0000 C CNN
+F 1 "SW_PUSH" H -9050 -336 50  0000 C CNN
+F 2 "" H -9050 -500 50  0000 C CNN
+F 3 "" H -9050 -500 50  0000 C CNN
+	1    -9050 -500
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW?
+U 1 1 5EDFE63F
+P -8000 -500
+F 0 "SW?" H -8000 -245 50  0000 C CNN
+F 1 "SW_PUSH" H -8000 -336 50  0000 C CNN
+F 2 "" H -8000 -500 50  0000 C CNN
+F 3 "" H -8000 -500 50  0000 C CNN
+	1    -8000 -500
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW?
+U 1 1 5EDFE86C
+P -6950 -500
+F 0 "SW?" H -6950 -245 50  0000 C CNN
+F 1 "SW_PUSH" H -6950 -336 50  0000 C CNN
+F 2 "" H -6950 -500 50  0000 C CNN
+F 3 "" H -6950 -500 50  0000 C CNN
+	1    -6950 -500
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

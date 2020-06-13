@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name kbd)(type KiCad)(uri /home/mikamo/src/github.com/mikamo3/mkbd/kbd/kbd.pretty)(options "")(descr ""))
+  (lib (name mkbd)(type KiCad)(uri /home/mikamo/src/github.com/mikamo3/mkbd/pcb/mkbd.pretty)(options "")(descr ""))
+)
